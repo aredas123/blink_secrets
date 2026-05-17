@@ -18,13 +18,13 @@ Inside `secrets.h`, add the following code and replace it with your own Wi-Fi de
 
 #endif
 
-----------------------------------------------------------------
+---
 ## How to use
 Clone or download this repository.
 Create the secrets.h file as described above.
 Open blink.ino in VS Code (PlatformIO/Arduino) or Arduino IDE.
 Upload the code to your NodeMCU.
-----------------------------------------------------------------
+---
 ## Authors ✍️
 Aredas123 - Project Concept & Architecture - Your GitHub Profile
 Gemini (AI Assistant) - Code & Technical Implementation
