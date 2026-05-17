@@ -17,7 +17,7 @@ Inside `secrets.h`, add the following code and replace it with your own Wi-Fi de
 #define SECRET_PASS "YOUR_WIFI_PASSWORD"
 
 #endif
-
+```
 
 ## How to use
 
@@ -29,6 +29,6 @@ Upload the code to your NodeMCU.
 
 ## Authors ✍️
 
-Aredas123 - Project Concept & Architecture - Your GitHub Profile
+Aredas123 - Project Concept & Architecture
 Gemini (AI Assistant) - Code & Technical Implementation
 Feel free to star ⭐ this repository if it helped you!
