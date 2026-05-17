@@ -1,13 +1,12 @@
-
 # NodeMCU Wi-Fi Blink Project
 
 This is a simple project for NodeMCU (ESP8266) that connects to Wi-Fi and blinks the built-in LED.
 
 ## Configuration 🔑
 
-To protect sensitive data, this project does not include Wi-Fi credentials. To run this code, you need to create a file named `secrets.h` in the same directory as `blink.ino`.
+To protect sensitive data, this project does not include Wi-Fi credentials. To run this code, you need to create a file named secrets.h in the same directory as blink.ino.
 
-Inside `secrets.h`, add the following code and replace it with your own Wi-Fi details:
+Inside secrets.h, add the following code and replace it with your own Wi-Fi details:
 
 ```cpp
 #ifndef SECRETS_H
@@ -21,14 +20,16 @@ Inside `secrets.h`, add the following code and replace it with your own Wi-Fi de
 
 ## How to use
 
-Clone or download this repository.
-Create the secrets.h file as described above.
-Open blink.ino in VS Code (PlatformIO/Arduino) or Arduino IDE.
-Upload the code to your NodeMCU.
+* **Clone** or download this repository.
+* **Create** the secrets.h file as described above.
+* **Open** blink.ino in VS Code (PlatformIO/Arduino) or Arduino IDE.
+* **Upload** the code to your NodeMCU.
 
+---
 
 ## Authors ✍️
 
-Aredas123 - Project Concept & Architecture
-Gemini (AI Assistant) - Code & Technical Implementation
+* **Aredas123** – Project Concept & Architecture – [GitHub Profile](https://github.com/aredas123)
+* **Gemini (AI Assistant)** – Code & Technical Implementation
+
 Feel free to star ⭐ this repository if it helped you!
